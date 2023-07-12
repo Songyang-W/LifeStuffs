@@ -1,7 +1,5 @@
 # LifeStuffs
 
-# LifeStuffs
-
 Welcome to LifeStuffs! This repository contains various ideas and random projects that I'm working on. The purpose of this GitHub repository is to track my progress and share my work with others.
 
 ## Table of Contents
