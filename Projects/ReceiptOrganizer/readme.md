@@ -5,5 +5,5 @@ The ReceiptOrganizer is a project that enables users to organize their shopping 
 ### story behinds
 We have this thought during shopping, which can help us better organize our shopping receipts plus control us not buying things too expensive. 
 
-![Graphic Overview](graph.png):
+![Graphic Overview](graph.png)
 
