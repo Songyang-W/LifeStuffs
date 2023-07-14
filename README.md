@@ -18,7 +18,16 @@ This section should provide instructions for others who want to explore or contr
 ## Projects
 In this section, list and briefly describe the projects or ideas you have included in the repository. You can provide a high-level overview of each project and explain their purpose or goals. Feel free to include links to any relevant documentation, blog posts, or external resources.
 
+**Some ideas** 
+1. Receipt Organizer
+2. Git & GitHub Learning
+3. Apartment Comments Organizer
+4. How to build a personal website
+5. Indie Hacker Project - Sync ios reminders and calendar
+6. ......
+
 ## Contributing
-### Songyang Wang
+### William
+### Wendy
 
 
