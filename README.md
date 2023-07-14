@@ -24,7 +24,7 @@ In this section, list and briefly describe the projects or ideas you have includ
 3. Apartment Comments Organizer
 4. How to build a personal website
 5. Indie Hacker Project - Sync ios reminders and calendar
-6. ......
+6. Body Build Tracker
 
 ## Contributing
 ### William
