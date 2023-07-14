@@ -25,6 +25,7 @@ In this section, list and briefly describe the projects or ideas you have includ
 4. How to build a personal website
 5. Indie Hacker Project - Sync ios reminders and calendar
 6. Body Build Tracker
+7. Output/present what you've learned
 
 ## Contributing
 ### William
