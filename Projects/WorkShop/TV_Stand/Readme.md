@@ -1,3 +1,15 @@
+# TV Stand
+
+## Introduction
+
+We first planned to make Tiger a dog house and bought many materials at HomeDepo. (woods, bolt screws, hinges, etc.) Since we did not make a cad design, everything went messy. We did finish the house roof (proud of it) but then found out the woods were not enough for the legs and windows. To make use of these woods, instead, we decided to make a TV stand for my new TV.
+Obviously, we paid for the last-minute change of plans. Many additional bolt screws and tools such as saws were bought at a nearby hardware store. After 3.5 hours of hard working, we finally made it! 
+
+Let’s see the following records.
+
+---------------------------------------------------------------------------------------
+## Pictures
+
 <img src="HomeDepot_Cut.jpeg" alt="HomeDepot1" width="300" height="400">
 
 Figure 1: Home Depot Wood Cutting
