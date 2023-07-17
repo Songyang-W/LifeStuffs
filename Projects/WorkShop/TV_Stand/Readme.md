@@ -9,8 +9,9 @@ Let’s see the following records.
 
 ---------------------------------------------------------------------------------------
 ## Pictures
-
-<img src="HomeDepot_Cut.jpeg" alt="HomeDepot1" width="300" height="400">
+<div style="text-align: center;">
+  <img src="HomeDepot_Cut.jpeg" alt="HomeDepot1" width="300" height="400">
+</div>
 
 Figure 1: Home Depot Wood Cutting
 
@@ -25,6 +26,7 @@ Figure 3: Final Product
 <img src="Final_Product.jpeg" alt="Final2" width="370" height="290">
 
 Figure 4: Final Product with the TV on it
+</div>
 
 ---------------------------------------------------------------------------------------
 
