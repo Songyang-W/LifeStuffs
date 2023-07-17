@@ -4,7 +4,7 @@ Figure 1: Home Depot Wood Cutting
 
 <img src="HomeDepot_Shopping_Cart.jpeg" alt="HomeDepot2" width="260" height="350">
 
-Figure 2: Home Depot Wood Cutting
+Figure 2: Home Depot Shopping Cart
 
 <img src="Made.jpeg" alt="Final1" width="360" height="270">
 
