@@ -1,4 +1,4 @@
-# TV Stand
+# TV Stand                                         
 
 ## Introduction
 
@@ -58,3 +58,8 @@ Let’s see the following records.
 |                                    |       |             |            |
 | HOME DEPOT TOTAL                   |       | 39.69       |            |
 | TOTAL COST                         |       | 70.46       |            |
+
+## Total Time
+2 Days
+5 HRS
+
