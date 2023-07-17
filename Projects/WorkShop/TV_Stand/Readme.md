@@ -1,10 +1,18 @@
-![HomeDepot1](HomeDepot_Cut.jpeg)
+<img src="HomeDepot_Cut.jpeg" alt="HomeDepot1" width="300" height="400">
 
-![HomeDepot2](HomeDepot_Shopping_Cart.jpeg)
+Figure 1: Home Depot Wood Cutting
 
-![Final1](Made.jpeg)
+<img src="HomeDepot_Shopping_Cart.jpeg" alt="HomeDepot2" width="260" height="350">
 
-![Final2](Final_Product.jpeg)
+Figure 2: Home Depot Wood Cutting
+
+<img src="Made.jpeg" alt="Final1" width="360" height="270">
+
+Figure 3: Final Product
+
+<img src="Final_Product.jpeg" alt="Final2" width="370" height="290">
+
+Figure 4: Final Product with the TV on it
 
 
 
