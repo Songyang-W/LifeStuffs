@@ -14,7 +14,9 @@ Figure 3: Final Product
 
 Figure 4: Final Product with the TV on it
 
+---------------------------------------------------------------------------------------
 
+## Price Chart
 
 
 
