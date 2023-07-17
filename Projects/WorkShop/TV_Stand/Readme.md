@@ -61,5 +61,6 @@ Let’s see the following records.
 
 ## Total Time
 2 Days
-5 HRS
+
+/ 5 HRS
 
