@@ -1,5 +1,5 @@
 # TV Stand    
-> Total Time: 2 Days/ 5 HRS
+> **Total Time**: 07/15 - 07/16  2 Days/ 5 HRS
 
 ## Introduction
 
