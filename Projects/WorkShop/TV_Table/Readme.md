@@ -1,3 +1,10 @@
+![HomeDepot1](HomeDepot_Cut.jpeg)
+
+![HomeDepot2](HomeDepot_Shopping_Cart.jpeg)
+
+![Final1](Made.jpeg)
+
+![Final2](Final_Product.jpeg)
 
 
 
